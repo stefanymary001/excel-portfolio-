@@ -1,2 +1,1 @@
-# excel-portfolio-
-curso santander
+Desenvolvimento de planilha em Excel para organização e simulação de carteira de Fundos Imobiliários (FII), com classificação por tipo de ativo (Papel, Tijolo, Híbridos, FOFs, Desenvolvimento e Hotelaria) e definição de percentuais de alocação. Estruturação de dados, aplicação de fórmulas para distribuição percentual, padronização visual e organização lógica das informações. Projeto direcionado a análise de investimentos e apoio à tomada de decisão, com foco em alocação estratégica e controle de carteira.
